@@ -65,3 +65,14 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
     대시보드를 동적으로 만들기 위한 다양한 접근 방식.
 
     느린 데이터 가져오기를 시뮬레이션하여 무슨 일이 일어나는지 살펴보세요.
+  
+   #9 스트리밍
+    스트리밍이란 무엇이고 언제 사용할 수 있나요?
+
+    loading.tsxSuspense를 사용하여 스트리밍을 구현하는 방법 .
+
+    로딩 스켈레톤이란?
+
+    Next.js 경로 그룹이 무엇이고, 언제 사용할 수 있는지 알아보세요.
+
+    애플리케이션에서 React Suspense 경계를 어디에 배치해야 하나요?
