@@ -38,3 +38,12 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
         후크를 사용하여 활성 링크를 표시하는 방법 usePathname().
 
         Next.js에서 탐색이 작동하는 방식.
+    
+    #6 데이터베이스 설정
+    귀하의 프로젝트를 GitHub에 푸시하세요.
+
+    Vercel 계정을 설정하고 GitHub 리포를 연결하면 즉시 미리 보고 배포할 수 있습니다.
+
+    프로젝트를 생성하고 Postgres 데이터베이스에 연결합니다.
+
+    초기 데이터로 데이터베이스를 시드합니다.
