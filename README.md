@@ -76,3 +76,9 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
     Next.js 경로 그룹이 무엇이고, 언제 사용할 수 있는지 알아보세요.
 
     애플리케이션에서 React Suspense 경계를 어디에 배치해야 하나요?
+
+    #10 부분 사전 렌더링
+
+    부분 사전 렌더링이란 무엇입니까?
+
+    부분 사전 렌더링의 작동 방식.
