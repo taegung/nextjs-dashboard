@@ -31,3 +31,10 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
         여러 대시보드 페이지에서 공유할 수 있는 중첩 레이아웃을 만듭니다.
 
         콜로케이션, 부분 렌더링, 루트 레이아웃이 무엇인지 알아보세요.
+
+    #5 페이지 간 탐색
+        구성요소를 사용하는 방법 next/link.
+
+        후크를 사용하여 활성 링크를 표시하는 방법 usePathname().
+
+        Next.js에서 탐색이 작동하는 방식.
