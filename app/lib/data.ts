@@ -8,6 +8,7 @@ import {
   Revenue,
 } from './definitions';
 import { formatCurrency } from './utils';
+import { log } from 'console';
 
 export async function fetchRevenue() {
   try {
@@ -65,6 +66,7 @@ export async function fetchCardData() {
       customerCountPromise,
       invoiceStatusPromise,
     ]);
+    console.log(data[0]);
 
     const numberOfInvoices = Number(data[0].rows[0].count ?? '0');
     const numberOfCustomers = Number(data[1].rows[0].count ?? '0');

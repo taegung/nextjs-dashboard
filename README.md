@@ -47,3 +47,12 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
     프로젝트를 생성하고 Postgres 데이터베이스에 연결합니다.
 
     초기 데이터로 데이터베이스를 시드합니다.
+
+    #7 데이터 가져오기
+    API, ORM, SQL 등 데이터를 가져오는 다양한 방법에 대해 알아보세요.
+
+    서버 구성 요소를 사용하면 백엔드 리소스에 보다 안전하게 액세스할 수 있습니다.
+
+    네트워크 워터폴이란 무엇인가?
+
+    JavaScript 패턴을 사용하여 병렬 데이터 가져오기를 구현하는 방법.
